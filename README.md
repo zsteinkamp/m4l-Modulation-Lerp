@@ -10,6 +10,7 @@ This is a Max For Live device that calculates a linearly interpolated value betw
 
 ## Changelog
 
+* 2024-02-05 [v2](https://github.com/zsteinkamp/m4l-Modulation-Lerp/raw/main/frozen/Modulation%20Lerp%20v2.amxd) - Fix problem with additional modulation destinations. Thanks @Michaelknubben!
 * 2023-04-10 [v1](https://github.com/zsteinkamp/m4l-Modulation-Lerp/raw/main/frozen/Modulation%20Lerp%20v1.amxd) - Initial Release.
 
 ## Usage
