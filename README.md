@@ -6,10 +6,11 @@ This is a Max For Live device that calculates a linearly interpolated value betw
 
 ## Installation
 
-[Download the newest .amxd file from the frozen/ directory](https://github.com/zsteinkamp/m4l-Modulation-Lerp/raw/main/frozen/Modulation%20Lerp%20v1.amxd) or clone this repository, and drag the `Modulation Lerp.amxd` device into a track in Ableton Live.
+[Download the newest .amxd file from the frozen/ directory](https://github.com/zsteinkamp/m4l-Modulation-Lerp/raw/main/frozen/) or clone this repository, and drag the `Modulation Lerp.amxd` device into a track in Ableton Live.
 
 ## Changelog
 
+* 2024-08-17 [v3](https://github.com/zsteinkamp/m4l-Modulation-Lerp/raw/main/frozen/Modulation%20Lerp%20v3.amxd) - Support Live 12's new modulation mode; Visual improvments.
 * 2024-02-05 [v2](https://github.com/zsteinkamp/m4l-Modulation-Lerp/raw/main/frozen/Modulation%20Lerp%20v2.amxd) - Fix problem with additional modulation destinations. Thanks @Michaelknubben!
 * 2023-04-10 [v1](https://github.com/zsteinkamp/m4l-Modulation-Lerp/raw/main/frozen/Modulation%20Lerp%20v1.amxd) - Initial Release.
 
