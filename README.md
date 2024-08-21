@@ -4,6 +4,8 @@ This is a Max For Live device that calculates a linearly interpolated value betw
 
 ![How it Looks](images/device.gif)
 
+[Video showing it in action.](https://www.youtube.com/watch?v=YfRTARPEUME)
+
 ## Installation
 
 [Download the newest .amxd file from the frozen/ directory](https://github.com/zsteinkamp/m4l-Modulation-Lerp/raw/main/frozen/) or clone this repository, and drag the `Modulation Lerp.amxd` device into a track in Ableton Live.
