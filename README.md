@@ -10,6 +10,8 @@ This is a Max For Live device that calculates a linearly interpolated value betw
 
 [Download the newest .amxd file from the frozen/ directory](https://github.com/zsteinkamp/m4l-Modulation-Lerp/raw/main/frozen/) or clone this repository, and drag the `Modulation Lerp.amxd` device into a track in Ableton Live.
 
+Note: If you want to open and edit the non-frozen device, you will need to have [zs.mapper](https://github.com/zsteinkamp/m4l-zs.mapper) installed. [Follow the installation instructions](https://github.com/zsteinkamp/m4l-zs.mapper) there.
+
 ## Changelog
 
 * 2024-08-17 [v3](https://github.com/zsteinkamp/m4l-Modulation-Lerp/raw/main/frozen/Modulation%20Lerp%20v3.amxd) - Support Live 12's new modulation mode; Visual improvments.
